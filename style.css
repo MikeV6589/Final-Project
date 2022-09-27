@@ -40,16 +40,18 @@ li a {
     padding: 0%;
     display: flex;
     font-size: x-large;
-   
+    background-color: black;
 }
 
 
 .three {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding-top: 10%;
-    color: darkblue;
-    text-align: left;
-  
     
+    color: rgb(206, 166, 113);
+    width: 100px;
+    text-align: center;
+    padding-left: 20%;
 }
+
+
 
