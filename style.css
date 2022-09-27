@@ -1,12 +1,6 @@
-body {
-    background-image: url(https://viatravelers.com/wp-content/uploads/2021/10/Man-in-Suit.jpg);
-    
-   background-repeat: no-repeat; 
-   background-size: cover;
-}
-
 li {
     float: left;
+    
 }
 
 li a:hover {
@@ -19,10 +13,10 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    position: fixed;
     top: 0;
     width: 100%;
-    font-family: fantasy;
+    font-family:Arial, Helvetica, sans-serif;
+    position: fixed;
 }
 
 li a {
@@ -30,6 +24,32 @@ li a {
     text-align: center;
     padding: 15px 15px;
     font-size: xx-large;
+    color: white
+}
+
+.one {
+    border: solid black;
+    margin: 0%;
+    padding: 0;
+
+}
+
+.two {
+    border: solid black;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    font-size: x-large;
+   
+}
+
+
+.three {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 10%;
     color: darkblue;
+    text-align: left;
+  
+    
 }
 
