@@ -53,5 +53,236 @@ li a {
     padding-left: 20%;
 }
 
+.concierge {
+    border: solid black;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    font-size: x-large;
+    background-color: rgb(85, 83, 83);
+   
+}
+
+
+
+.four {
+text-align: center; 
+margin-top: 20%;
+color: white;   
+ 
+}
+
+.pic {
+    margin-left: 0%;
+    padding-top: 0%;
+    display: flex;
+    flex-direction: row;
+    border: solid 5px rgb(75, 73, 73);
+
+}
+
+h1 {
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 0%;
+    padding-bottom: 10%;
+    color: rgb(49, 49, 49);
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:xx-large;
+}
+
+
+.text {
+    border: dotted 5px rgb(194, 172, 51);
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size:x-large;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration:solid;
+    background-color: rgb(110, 101, 48);
+    color: white;
+}
+
+
+
+.money {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: x-large;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: double;
+    text-align: center;
+    color: rgb(1, 1, 24);
+
+}
+
+
+.admin {
+ margin-left: 3%;
+ font-size: larger;
+ font-style: oblique;
+ color: rgb(98, 198, 231);
+ font-size: x-large;
+ text-decoration: underline;
+}
+
+.parties {
+    margin-left: 5%;
+    font-size: larger;
+    font-style: oblique;
+    color: 5px rgb(153, 70, 153);
+    font-size: x-large;
+    text-decoration: underline;
+}
+
+.description {
+    margin-left: 15%;
+    font-size: x-large;
+    color: rgb(2, 2, 36);
+    border: 5px solid rgb(61, 191, 235);
+    margin-right: 40%;
+    
+}
+
+.party {
+    margin-left: 15%;
+    font-size: x-large;
+    color: black;
+    border: 5px solid rgb(129, 52, 129);
+    margin-right: 35%;
+}
+
+.travel {
+    margin-left: 5%;
+    font-size: larger;
+    font-style: oblique;
+    color: darkblue;
+    font-size: x-large;
+    text-decoration: underline;
+}
+
+.destination {
+    margin-left: 15%;
+    font-size: x-large;
+    color: black;
+    border: 5px solid darkblue;
+    margin-right: 30%;
+
+}
+
+.fine {
+    
+    font-size: large;
+    font-style: oblique;
+    color: black;
+    font-size: x-large;
+    text-decoration: underline;
+    margin-right: 5%;
+}
+
+.dining {
+    margin-left: 15%;
+    font-size: x-large;
+    color: black;
+    border: 5px solid black;
+    margin-right: 30%;
+}
+
+.tickets {
+    font-size: large;
+    font-style: oblique;
+    color: red;
+    font-size: x-large;
+    text-decoration: underline;
+    margin-right: 5%;
+}
+
+.hospitality {
+    margin-left: 15%;
+    font-size: x-large;
+    color: black;
+    border: 5px solid rgb(252, 13, 13);
+    margin-right: 35%;
+}
+
+.maintenance {
+    font-size: large;
+    font-style: oblique;
+    color: rgb(247, 165, 15);
+    font-size: x-large;
+    text-decoration: underline;
+    margin-right: 5%;
+    
+}
+
+.skilled {
+    margin-left: 15%;
+    font-size: x-large;
+    color: black;
+    border: 5px solid orangered;
+    margin-right: 35%;
+}
+
+.h1 {
+    font-family: fantasy;
+}
+
+.form-div {
+    margin: 50px auto 50px;
+    padding: 25px 15px 10px 15px;
+    border: 4px solid #80ced7;
+    border-radius: 30px;
+    font-size: 1.1em;
+    font-family: 'Merriweather&display=swap', serif;
+  }
+  
+  .form-control:focus {
+    box-shadow: none;
+  }
+  
+  form p {
+    font-size: .89;
+  }
+  
+  .form-div.login {
+    margin-top: 100px;
+  }
+  
+
+  
+  .form-field {
+    display: flex;
+  }
+
+  .form-group {
+    width: 100%;
+  }
+  
+  .form-group label {
+    width: 120px;
+    display: inline-block;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
